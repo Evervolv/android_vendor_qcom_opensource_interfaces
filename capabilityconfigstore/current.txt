@@ -1,0 +1,2 @@
+928677d39894f5f4709bd71a747265de38a28cc8f319dd58efc8c2d809f6b210 vendor.qti.hardware.capabilityconfigstore@1.0::ICapabilityConfigStore
+294d92fd2466432f12179224fd61097be0b4ae580c1dd53a9fc8e6636212e345 vendor.qti.hardware.capabilityconfigstore@1.0::types
